@@ -3,7 +3,7 @@ aliases: [stuff I own]
 ---
 
 see also:
-- [tools-i-use](self/tools-i-use.md)
+- [tools I use](self/tools%20I%20use.md)
 
 No affiliate links or anything here. This is just stuff I use.
 

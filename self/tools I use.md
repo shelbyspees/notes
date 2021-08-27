@@ -3,7 +3,7 @@ aliases: [tools I use]
 ---
 
 see also:
-- [stuff-i-own](self/stuff-i-own.md)
+- [stuff I own](self/stuff%20I%20own.md)
 
 ## applications
 

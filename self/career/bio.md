@@ -1,8 +1,8 @@
 # bio
 
 see also:
-- [career-history](self/career/career-history.md)
-- [personal-history](self/tmi/personal-history.md)
+- [career history](self/career/career%20history.md)
+- [personal history](self/tmi/personal%20history.md)
 - [resume](self/career/resume.md)
 
 ## short bio

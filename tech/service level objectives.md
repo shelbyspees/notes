@@ -3,8 +3,8 @@ aliases: [service level objectives (SLOs)]
 ---
 
 see also:
-- [web-services](tech/web-services.md)
-- [production-excellence](tech/production-excellence.md)
+- [web services](tech/web%20services.md)
+- [production excellence](tech/production%20excellence.md)
 
 ## what are SLOs?
 

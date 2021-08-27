@@ -1,5 +1,3 @@
-# resume advice
-
 Some advice for early-career and mid-career folks who need some help to improve their resumes.
 
 If you're a designer or something, you probably won't benefit from these notes.

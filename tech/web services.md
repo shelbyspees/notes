@@ -38,8 +38,11 @@ Infrastructure teams lean on auto-remediation strategies, such as autoscaling an
 
 ## resources
 
+[What happens when you type a URL into your browser?](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/) by [Jenna Pederson](https://twitter.com/jennapederson)
+
 [The RED Method: key metrics for microservices architecture](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
 
+
 further reading:
-- [production-excellence](tech/production-excellence.md)
-- [service level objectives (SLOs)](tech/service-level-objectives.md)
+- [production excellence](tech/production%20excellence.md)
+- [service level objectives (SLOs)](tech/service%20level%20objectives.md)

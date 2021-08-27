@@ -1,7 +1,7 @@
 ---
 aliases: [On Hugo]
 ---
-- [hugo-dark-mode-tweets](writing/hugo/hugo-dark-mode-tweets.md)
-- [hugo-netlify-opengraph](writing/hugo/hugo-netlify-opengraph.md)
-- [hugo-accessible-themes](writing/hugo/hugo-accessible-themes.md)
-- [hugo-overwriting-themes](writing/hugo/hugo-overwriting-themes.md)
+- [dark mode tweets](writing/hugo/dark%20mode%20tweets.md)
+- [netlify opengraph](writing/hugo/netlify%20opengraph.md)
+- [accessible themes](writing/hugo/accessible%20themes.md)
+- [overwriting themes](writing/hugo/overwriting%20themes.md)
