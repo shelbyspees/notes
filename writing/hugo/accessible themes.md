@@ -1,4 +1,6 @@
-# accessible hugo themes: where are they?
+---
+aliases: [accessible hugo themes: where are they?]
+---
 [originally drafted 2021-05-23]
 
 I just want Hugo themes that use semantic HTML and meet accessibility standards out of the box. Is that so much to ask?

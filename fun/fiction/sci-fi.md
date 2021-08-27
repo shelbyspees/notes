@@ -1,4 +1,3 @@
-# sci-fi
 ## books
 
 ## shows

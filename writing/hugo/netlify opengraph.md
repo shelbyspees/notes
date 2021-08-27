@@ -1,5 +1,6 @@
-# dynamically generate OpenGraph images from Hugo and Netlify
-
+---
+aliases: [dynamically generate OpenGraph images from Hugo and Netlify]
+---
 ## goal
 
 Context: I like how OpenGraph images look in link unfurls, for example on social media and in chat apps, but I don't like manually creating a new image for each blog post I write.

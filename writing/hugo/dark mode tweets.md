@@ -1,5 +1,6 @@
-# dark mode for embedded tweets on my Hugo site
-
+---
+aliases: [dark mode for embedded tweets on my Hugo site]
+---
 [post originally created 2020-09-27]
 
 My latest adventure in customizing my Hugo site has involved a teensy bit of janky-ass JavaScript.

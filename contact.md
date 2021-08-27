@@ -1,6 +1,4 @@
 ---
-aliases: [contact]
 ---
-
-twitter.com/shelbyspees
-linkedin.com/in/shelbyspees
+- [Twitter](https://twitter.com/shelbyspees)
+- [LinkedIn](https://linkedin.com/in/shelbyspees)

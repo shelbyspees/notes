@@ -1,5 +1,4 @@
 ---
-aliases: [ADHD tweets]
 ---
 
 relationship degradation

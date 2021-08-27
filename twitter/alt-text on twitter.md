@@ -1,7 +1,3 @@
----
-aliases: [alt-text on twitter]
----
-
 ## resources
 
 [How to make images accessible for people | Twitter Help](https://help.twitter.com/en/using-twitter/picture-descriptions)

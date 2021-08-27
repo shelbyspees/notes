@@ -1,3 +1,6 @@
+---
+---
+
 Some advice for early-career and mid-career folks who need some help to improve their resumes.
 
 If you're a designer or something, you probably won't benefit from these notes.
@@ -7,7 +10,6 @@ I should hope that this sort of advice is something everyone hears at some point
 Another thing to note: there are people who read resumes who'll disagree with everything I say here. That's okay. I'm just sharing one approach that people may find helpful. 
 
 Like every form of communication, there's no perfect formula. There's no perfect rubric. Everything varies depending on the writer and audience. But for anxious job-seekers, too much conflicting advice can just make things harder. That's why I try to be specific and opinionated with my advice here.
-
 
 ## the "good enough" resume
 
